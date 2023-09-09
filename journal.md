@@ -9,3 +9,5 @@ use reference in introdution
 add another reference
 
 add results section
+
+add figure section
